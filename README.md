@@ -1,2 +1,2 @@
-# cms PHP Codeigniter Admin paneli çalışması -gerçek eğitim çalışması
+# cms PHP Codeigniter Admin paneli - gerçek eğitim çalışması
  
